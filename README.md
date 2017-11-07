@@ -6,7 +6,7 @@ This is a full stack, AngularJS client, Node Express server utilizing webpack.
 
 ##Platform Technologies
 
-*Our frontend uses AngularJS and Angular RouterSummar://github.com/angular/angular
+*Our frontend uses AngularJS and Angular Router
 
 
 ## Installation
